@@ -1,4 +1,4 @@
-# City Intelligence 🏙 🧠
+# 🏙  City Intelligence 🧠
 
 ![City Intelligence](includes/banner1.png)
 
